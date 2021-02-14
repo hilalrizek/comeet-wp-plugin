@@ -1,0 +1,16 @@
+{
+  "name": "hilalrizek/comeet-wp-plugin",
+  "description": "comeet-wp-plugin with composer.json for use in bedrock",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/hilalrizek/comeet-wp-plugin",
+  "authors": [
+    {
+      "name": "ComeetCo",
+      "homepage": "https://github.com/ComeetCo/comeet-wp-plugin"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">7.1"
+  }
+}
